@@ -1,0 +1,7 @@
+build
+main
+data/**/**
+!data/.gitkeep
+**.dSYM/**
+.vscode
+.cspell.json
